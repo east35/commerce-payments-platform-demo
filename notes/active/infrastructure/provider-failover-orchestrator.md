@@ -9,8 +9,8 @@ ai_visible: true
 phase: null
 dependencies: ["payments-reliability-vision"]
 tags: ["psp", "failover", "resilience"]
-updated_at: "2026-02-15T14:15:53.341Z"
-created_at: "2026-02-15T14:15:53.341Z"
+updated_at: "2026-02-15T14:19:26.829Z"
+created_at: "2026-02-15T14:19:26.829Z"
 ---
 ## Scope
 
